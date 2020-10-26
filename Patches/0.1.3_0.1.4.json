@@ -1,0 +1,29 @@
+{
+  "From": "0.1.3",
+  "To": "0.1.4",
+  "Hash": "8aClLGuijHJttgjuOYPpjAQCUaQ",
+  "TotalSize": 0,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "TheVileOne_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T23:09:28.1659733Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "TheVileOne_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T23:09:20.0116884Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T23:10:52.3819317Z",
+      "Size": 0
+    }
+  ]
+}
