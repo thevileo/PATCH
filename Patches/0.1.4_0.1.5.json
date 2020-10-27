@@ -1,0 +1,22 @@
+{
+  "From": "0.1.4",
+  "To": "0.1.5",
+  "Hash": "PaXvGhkO80zaCMqUweXWkQCmfSc",
+  "TotalSize": 0,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "TheVileOne_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-27T16:24:27.5881704Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-27T16:26:18.539226Z",
+      "Size": 0
+    }
+  ]
+}

@@ -25,77 +25,77 @@
       "Operation": 0,
       "RelativePath": "Launcher_Data/app.info",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:35.1587451Z",
+      "LastWriting": "2020-10-27T16:25:38.5484609Z",
       "Size": 17
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/boot.config",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:32.7455233Z",
+      "LastWriting": "2020-10-27T16:25:35.6681465Z",
       "Size": 82
     },
     {
-      "Operation": 2,
+      "Operation": 0,
       "RelativePath": "Launcher_Data/globalgamemanagers",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:30.2961763Z",
+      "LastWriting": "2020-10-27T16:25:32.5038645Z",
       "Size": 576340
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/globalgamemanagers.assets",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:30.5655944Z",
+      "LastWriting": "2020-10-27T16:25:32.8861668Z",
       "Size": 173688
     },
     {
-      "Operation": 2,
+      "Operation": 0,
       "RelativePath": "Launcher_Data/level0",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:27.6130338Z",
+      "LastWriting": "2020-10-27T16:25:28.41443Z",
       "Size": 17480
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/resources.assets",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:32.4254317Z",
+      "LastWriting": "2020-10-27T16:25:35.2211232Z",
       "Size": 19720596
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/resources.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:32.4078719Z",
+      "LastWriting": "2020-10-27T16:25:35.2015565Z",
       "Size": 166049992
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/resources.resource",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:32.4530257Z",
+      "LastWriting": "2020-10-27T16:25:35.2381812Z",
       "Size": 50304
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/sharedassets0.assets",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:32.5097191Z",
+      "LastWriting": "2020-10-27T16:25:35.3159465Z",
       "Size": 40392
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/sharedassets0.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:32.5062072Z",
+      "LastWriting": "2020-10-27T16:25:35.3104274Z",
       "Size": 13550424
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Assembly-CSharp.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:26.3371867Z",
+      "LastWriting": "2020-10-27T16:25:26.4592681Z",
       "Size": 768000
     },
     {
@@ -165,63 +165,63 @@
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonChat.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.0121714Z",
+      "LastWriting": "2020-10-27T16:25:24.6395676Z",
       "Size": 32256
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonRealtime.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.0397657Z",
+      "LastWriting": "2020-10-27T16:25:24.7128168Z",
       "Size": 92672
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonUnityNetworking.Demos.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.8510299Z",
+      "LastWriting": "2020-10-27T16:25:25.8120625Z",
       "Size": 122880
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonUnityNetworking.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.384942Z",
+      "LastWriting": "2020-10-27T16:25:25.1477993Z",
       "Size": 105472
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonUnityNetworking.Utilities.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.5986701Z",
+      "LastWriting": "2020-10-27T16:25:25.4643781Z",
       "Size": 55808
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonVoice.API.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.2881117Z",
+      "LastWriting": "2020-10-27T16:25:25.0439456Z",
       "Size": 123904
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonVoice.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.5254207Z",
+      "LastWriting": "2020-10-27T16:25:25.40317Z",
       "Size": 100864
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonVoice.PUN.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.7215892Z",
+      "LastWriting": "2020-10-27T16:25:25.6725871Z",
       "Size": 23040
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/PhotonWebSocket.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.5641449Z",
+      "LastWriting": "2020-10-27T16:25:24.1187929Z",
       "Size": 3072
     },
     {
@@ -473,56 +473,56 @@
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Unity.ProBuilder.Csg.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.5410664Z",
+      "LastWriting": "2020-10-27T16:25:23.8749618Z",
       "Size": 16384
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Unity.ProBuilder.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:25.1039844Z",
+      "LastWriting": "2020-10-27T16:25:24.776534Z",
       "Size": 353280
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Unity.ProBuilder.KdTree.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.543575Z",
+      "LastWriting": "2020-10-27T16:25:23.9587476Z",
       "Size": 18432
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.5681587Z",
+      "LastWriting": "2020-10-27T16:25:24.0340038Z",
       "Size": 34304
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Unity.ProBuilder.Stl.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.5505989Z",
+      "LastWriting": "2020-10-27T16:25:24.0490551Z",
       "Size": 12800
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Unity.ProGrids.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.4939058Z",
+      "LastWriting": "2020-10-27T16:25:23.9085769Z",
       "Size": 4096
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Unity.TextMeshPro.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.8767101Z",
+      "LastWriting": "2020-10-27T16:25:24.2662955Z",
       "Size": 369152
     },
     {
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/Unity.Timeline.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.5701657Z",
+      "LastWriting": "2020-10-27T16:25:23.9080749Z",
       "Size": 110592
     },
     {
@@ -536,7 +536,7 @@
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/UnityEngine.Advertisements.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.4527655Z",
+      "LastWriting": "2020-10-27T16:25:23.8915186Z",
       "Size": 31232
     },
     {
@@ -704,7 +704,7 @@
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/UnityEngine.Monetization.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.8425937Z",
+      "LastWriting": "2020-10-27T16:25:24.35861Z",
       "Size": 28672
     },
     {
@@ -837,7 +837,7 @@
       "Operation": 0,
       "RelativePath": "Launcher_Data/Managed/UnityEngine.UI.dll",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:24.1577604Z",
+      "LastWriting": "2020-10-27T16:25:23.4224201Z",
       "Size": 227840
     },
     {
@@ -1019,7 +1019,7 @@
       "Operation": 0,
       "RelativePath": "Launcher_Data/Resources/unity_builtin_extra",
       "Attributes": 8224,
-      "LastWriting": "2020-10-26T23:10:32.7219424Z",
+      "LastWriting": "2020-10-27T16:25:35.6355351Z",
       "Size": 425492
     },
     {
