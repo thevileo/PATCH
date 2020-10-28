@@ -1,0 +1,25 @@
+{
+  "Entries": [
+    {
+      "RelativePath": "TheVileOne_Data/sharedassets0.assets.resS",
+      "Size": 388178988,
+      "LastWriting": "2020-10-28T22:49:39.2796031Z",
+      "Hash": "cBiVWBr3bil6xcFtIZ9MmSTTonc",
+      "Attributes": 128
+    },
+    {
+      "RelativePath": "TheVileOne_Data/sharedassets0.resource",
+      "Size": 14113024,
+      "LastWriting": "2020-10-28T22:49:39.3372998Z",
+      "Hash": "0G+lJA6AhdPWXC3MplmsKTgoNdA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "version.data",
+      "Size": 24,
+      "LastWriting": "2020-10-28T22:50:38.2962854Z",
+      "Hash": "cq2uYTAJDdVCK+SRjvsBswFLpTo",
+      "Attributes": 32
+    }
+  ]
+}
