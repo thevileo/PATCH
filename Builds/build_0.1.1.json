@@ -164,113 +164,85 @@
     {
       "RelativePath": "TheVileOne_Data/app.info",
       "Size": 21,
-      "LastWriting": "2020-10-23T21:59:09.1011094Z",
+      "LastWriting": "2020-10-28T22:14:11.3818051Z",
       "Hash": "vjXd1z8xw6KwLear+qNEyyUxwrA",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/boot.config",
       "Size": 82,
-      "LastWriting": "2020-10-23T21:59:05.9558921Z",
+      "LastWriting": "2020-10-28T22:14:08.1146676Z",
       "Hash": "3hQdhvfeaFAIfuJVFUXSRUJTdyQ",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/globalgamemanagers",
-      "Size": 576420,
-      "LastWriting": "2020-10-23T21:58:57.5798517Z",
-      "Hash": "A1nAUHkVxuRGOzp8qF85DXBR/m0",
+      "Size": 577420,
+      "LastWriting": "2020-10-28T22:14:02.9836765Z",
+      "Hash": "DHEGaMfT2TFDoIAWp34K9wkdYLw",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/globalgamemanagers.assets",
       "Size": 173688,
-      "LastWriting": "2020-10-23T21:58:58.0474449Z",
+      "LastWriting": "2020-10-28T22:14:03.5676677Z",
       "Hash": "rrwas0gtGpmGc3/TKb1GBE2ns2Y",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/level0",
-      "Size": 16976,
-      "LastWriting": "2020-10-23T21:58:50.1615745Z",
-      "Hash": "32JB0og0yMEKPFkqy8FsZDxEfag",
+      "Size": 2200268,
+      "LastWriting": "2020-10-28T22:13:59.8625369Z",
+      "Hash": "wfVJO7GFKy6bvVx48lt3MwGDXNY",
       "Attributes": 8224
     },
     {
-      "RelativePath": "TheVileOne_Data/level1",
-      "Size": 2200284,
-      "LastWriting": "2020-10-23T21:58:55.0572563Z",
-      "Hash": "F5WiIZPmsRnHSLBXGS/Y4sir69Q",
-      "Attributes": 8224
-    },
-    {
-      "RelativePath": "TheVileOne_Data/level1.resS",
+      "RelativePath": "TheVileOne_Data/level0.resS",
       "Size": 16480,
-      "LastWriting": "2020-10-23T21:58:55.0396964Z",
+      "LastWriting": "2020-10-28T22:13:59.8474856Z",
       "Hash": "Nn/VeqLG+NKNg7qRVRCMBv3gRzE",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/resources.assets",
-      "Size": 19830308,
-      "LastWriting": "2020-10-23T21:59:01.4073938Z",
-      "Hash": "TXfvqYDm9R6eWgBYSpNToIZMYww",
+      "Size": 3091956,
+      "LastWriting": "2020-10-28T22:14:03.8872571Z",
+      "Hash": "1iVq8EFK2/abbTZ8MX6zBmKL7ZQ",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/resources.assets.resS",
-      "Size": 179425600,
-      "LastWriting": "2020-10-23T21:59:01.1781124Z",
-      "Hash": "9kLHQVQ/Wmt7XyIqGJS3zK3PKvo",
-      "Attributes": 8224
-    },
-    {
-      "RelativePath": "TheVileOne_Data/resources.resource",
-      "Size": 50304,
-      "LastWriting": "2020-10-23T21:59:01.4716127Z",
-      "Hash": "T8FgosCYqZnaQ1qlJDnDcK7yCb4",
+      "Size": 58449856,
+      "LastWriting": "2020-10-28T22:14:03.8742123Z",
+      "Hash": "I26Y0ImTEd7k3yAaak8y81nPQMg",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/sharedassets0.assets",
-      "Size": 16228,
-      "LastWriting": "2020-10-23T21:59:01.5177699Z",
-      "Hash": "r9i4i6lK8RMhVS4TGlgdTRg2rfg",
+      "Size": 36502376,
+      "LastWriting": "2020-10-28T22:14:07.7398894Z",
+      "Hash": "Uyl3E9DHWCRrWXXkaTka3OGT6c4",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/sharedassets0.assets.resS",
-      "Size": 174816,
-      "LastWriting": "2020-10-23T21:59:01.5112475Z",
-      "Hash": "uUh1l1ZcMjZcxM/9BDmwVeifhXY",
+      "Size": 388178988,
+      "LastWriting": "2020-10-28T22:14:07.7092855Z",
+      "Hash": "cBiVWBr3bil6xcFtIZ9MmSTTonc",
       "Attributes": 8224
     },
     {
-      "RelativePath": "TheVileOne_Data/sharedassets1.assets",
-      "Size": 19857344,
-      "LastWriting": "2020-10-23T21:59:05.3839434Z",
-      "Hash": "PpY/tpMbVz1ICyXIUGE3Pp5f25s",
-      "Attributes": 8224
-    },
-    {
-      "RelativePath": "TheVileOne_Data/sharedassets1.assets.resS",
-      "Size": 267203244,
-      "LastWriting": "2020-10-23T21:59:05.360363Z",
-      "Hash": "KzscxWbKWvTvJ0mprvwLcyF7Lp8",
-      "Attributes": 8224
-    },
-    {
-      "RelativePath": "TheVileOne_Data/sharedassets1.resource",
-      "Size": 14062720,
-      "LastWriting": "2020-10-23T21:59:05.4025068Z",
-      "Hash": "v3RfYAelLp+BagQh6UXFht5xGfs",
+      "RelativePath": "TheVileOne_Data/sharedassets0.resource",
+      "Size": 14113024,
+      "LastWriting": "2020-10-28T22:14:07.770996Z",
+      "Hash": "0G+lJA6AhdPWXC3MplmsKTgoNdA",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/Assembly-CSharp.dll",
       "Size": 768000,
-      "LastWriting": "2020-10-23T21:58:48.5425581Z",
-      "Hash": "BLMTOWu/mKHo2KU1VZblUasL59c",
+      "LastWriting": "2020-10-28T22:13:55.6321158Z",
+      "Hash": "wuvaFmGpjffFZfs8aegYkYCXIw0",
       "Attributes": 8224
     },
     {
@@ -339,63 +311,63 @@
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonChat.dll",
       "Size": 32256,
-      "LastWriting": "2020-10-23T21:58:47.1252286Z",
+      "LastWriting": "2020-10-28T22:13:54.1721385Z",
       "Hash": "o9q8+v+hNdw/8IHEBsTYuMHHJck",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonRealtime.dll",
       "Size": 92672,
-      "LastWriting": "2020-10-23T21:58:47.1538256Z",
+      "LastWriting": "2020-10-28T22:13:54.199775Z",
       "Hash": "XGiI7+WinZ+gH0dtUWmtzo7yXUk",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonUnityNetworking.Demos.dll",
       "Size": 122880,
-      "LastWriting": "2020-10-23T21:58:48.0252955Z",
+      "LastWriting": "2020-10-28T22:13:55.1243851Z",
       "Hash": "uUnrRocIwe1mb5/7v2POX8qJtR8",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonUnityNetworking.dll",
       "Size": 105472,
-      "LastWriting": "2020-10-23T21:58:47.5240874Z",
+      "LastWriting": "2020-10-28T22:13:54.5579542Z",
       "Hash": "y/Jhk5Uk8exPBdWs4cywnx8t7n8",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonUnityNetworking.Utilities.dll",
       "Size": 55808,
-      "LastWriting": "2020-10-23T21:58:47.7623997Z",
+      "LastWriting": "2020-10-28T22:13:54.8680109Z",
       "Hash": "v8wIeRESqGfUQ7Lf9vazLRMIhMA",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonVoice.API.dll",
       "Size": 123904,
-      "LastWriting": "2020-10-23T21:58:47.4292644Z",
+      "LastWriting": "2020-10-28T22:13:54.4676461Z",
       "Hash": "lUijTvkipzNDKP/50g2dFah6v/U",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonVoice.dll",
       "Size": 100864,
-      "LastWriting": "2020-10-23T21:58:47.6916581Z",
+      "LastWriting": "2020-10-28T22:13:54.8233587Z",
       "Hash": "9n0x+AKq2afdUkDIt2qkax9wrno",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonVoice.PUN.dll",
       "Size": 23040,
-      "LastWriting": "2020-10-23T21:58:47.8998681Z",
+      "LastWriting": "2020-10-28T22:13:55.0365856Z",
       "Hash": "ZABSRmWOAwHDYkdVRDT85NwmH0A",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/PhotonWebSocket.dll",
       "Size": 3072,
-      "LastWriting": "2020-10-23T21:58:46.612983Z",
+      "LastWriting": "2020-10-28T22:13:53.7226063Z",
       "Hash": "MiIgZTgRRmXaVWnXuowvofbsdKc",
       "Attributes": 8224
     },
@@ -647,56 +619,56 @@
     {
       "RelativePath": "TheVileOne_Data/Managed/Unity.ProBuilder.Csg.dll",
       "Size": 16384,
-      "LastWriting": "2020-10-23T21:58:46.5768598Z",
+      "LastWriting": "2020-10-28T22:13:53.6328002Z",
       "Hash": "7oJsWudmzDwvSYd7nxL/QesRhzM",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/Unity.ProBuilder.dll",
       "Size": 353280,
-      "LastWriting": "2020-10-23T21:58:47.1989795Z",
+      "LastWriting": "2020-10-28T22:13:54.2348523Z",
       "Hash": "+mvLS5O6tZ259p8HqZam3AwOI0g",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/Unity.ProBuilder.KdTree.dll",
       "Size": 18432,
-      "LastWriting": "2020-10-23T21:58:46.5216718Z",
+      "LastWriting": "2020-10-28T22:13:53.6684217Z",
       "Hash": "uhKToQahOF87515JQSZCnQ87ze4",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
       "Size": 34304,
-      "LastWriting": "2020-10-23T21:58:46.5678289Z",
+      "LastWriting": "2020-10-28T22:13:53.6523668Z",
       "Hash": "0GsxxpWTURbCAwws6JFwODQgzgc",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/Unity.ProBuilder.Stl.dll",
       "Size": 12800,
-      "LastWriting": "2020-10-23T21:58:46.5768598Z",
+      "LastWriting": "2020-10-28T22:13:53.6759476Z",
       "Hash": "/9VJuN4LqOzi73UiDsmb/mbz4Pk",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/Unity.ProGrids.dll",
       "Size": 4096,
-      "LastWriting": "2020-10-23T21:58:46.612983Z",
+      "LastWriting": "2020-10-28T22:13:53.6744423Z",
       "Hash": "JULp8iOednkcjBh5zK6aDupy+uU",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/Unity.TextMeshPro.dll",
       "Size": 369152,
-      "LastWriting": "2020-10-23T21:58:46.8432674Z",
+      "LastWriting": "2020-10-28T22:13:53.9288095Z",
       "Hash": "4tO6ocWuFnMdzPQ+KGlodA8IJl0",
       "Attributes": 8224
     },
     {
       "RelativePath": "TheVileOne_Data/Managed/Unity.Timeline.dll",
       "Size": 110592,
-      "LastWriting": "2020-10-23T21:58:46.5567912Z",
+      "LastWriting": "2020-10-28T22:13:53.6674181Z",
       "Hash": "LGHqR4rysdTJmHMdw3WGore1raw",
       "Attributes": 8224
     },
@@ -710,7 +682,7 @@
     {
       "RelativePath": "TheVileOne_Data/Managed/UnityEngine.Advertisements.dll",
       "Size": 31232,
-      "LastWriting": "2020-10-23T21:58:46.5231768Z",
+      "LastWriting": "2020-10-28T22:13:53.624271Z",
       "Hash": "gmFhsYu0uzsh0I0/TGn7FwdGKaE",
       "Attributes": 8224
     },
@@ -878,7 +850,7 @@
     {
       "RelativePath": "TheVileOne_Data/Managed/UnityEngine.Monetization.dll",
       "Size": 28672,
-      "LastWriting": "2020-10-23T21:58:46.8116598Z",
+      "LastWriting": "2020-10-28T22:13:53.901717Z",
       "Hash": "HhwlQ13NGeJNa08GtCDNk/HTWkI",
       "Attributes": 8224
     },
@@ -1011,7 +983,7 @@
     {
       "RelativePath": "TheVileOne_Data/Managed/UnityEngine.UI.dll",
       "Size": 227840,
-      "LastWriting": "2020-10-23T21:58:46.1102699Z",
+      "LastWriting": "2020-10-28T22:13:53.2369508Z",
       "Hash": "vqCASl7uqmCwprlHhXB9obb4YVE",
       "Attributes": 8224
     },
@@ -1193,14 +1165,14 @@
     {
       "RelativePath": "TheVileOne_Data/Resources/unity_builtin_extra",
       "Size": 445724,
-      "LastWriting": "2020-10-23T21:59:05.9257895Z",
+      "LastWriting": "2020-10-28T22:14:08.0895821Z",
       "Hash": "NdfWm+exNzOAz3oxB6tx5SiY3ac",
       "Attributes": 8224
     },
     {
       "RelativePath": "version.data",
       "Size": 24,
-      "LastWriting": "2020-10-23T22:01:08.1407259Z",
+      "LastWriting": "2020-10-28T22:14:29.1443559Z",
       "Hash": "9FqdPckhNfnJaFBj2Rgaiusd2pU",
       "Attributes": 32
     }
